@@ -1,11 +1,12 @@
-# Estudiante y desarrollador
+# Student and developer
 
-### Sobre mi
-- :books: Estudiante de 18 años en 7mo de EEST Nº 7 "IMPA TRQ"
-- :telescope: Me gusta aprender sobre programacion, especialmente ciberseguridad y desarrollo de aplicaciones moviles
-- :zap: Ademas en mi tiempo libre escucho musica, aprendo aleman y hago ejercicio
+### About me
+- :books: I'm a student at EEST Nº 7 "IMPA TRQ"
+- :telescope: I like to learn about programming, especially cybersecurity and mobile apps
+- :zap: In my free time I like to listen to music, learn german and work out
+- :bulb: Last year highschool project: [BGas](https://bgas.ar/)
 
-### Mis redes
+### My socials:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
