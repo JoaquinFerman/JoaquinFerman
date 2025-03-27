@@ -1,7 +1,7 @@
 # Student and developer
 
 ### About me
-- :books: I'm a technical degree student at UTN, Argentina
+- :books: I'm a programming tech student at UTN, Argentina
 - :telescope: I like to learn about programming, especially cybersecurity and mobile apps
 - :zap: In my free time I like to listen to music, learn german and work out
 - :bulb: Last project: [Link](https://github.com/JoaquinFerman/VirtualWallet)
