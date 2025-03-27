@@ -1,10 +1,10 @@
 # Student and developer
 
 ### About me
-- :books: I'm a student at EEST Nº 7 "IMPA TRQ"
+- :books: I'm a technical degree student at UTN, Argentina
 - :telescope: I like to learn about programming, especially cybersecurity and mobile apps
 - :zap: In my free time I like to listen to music, learn german and work out
-- :bulb: Last year highschool project: [BGas](https://bgas.ar/)
+- :bulb: Last project: [Link](https://github.com/JoaquinFerman/VirtualWallet)
 
 ### My socials:
 
