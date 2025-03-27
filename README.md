@@ -2,7 +2,7 @@
 
 ### About me
 - :books: I'm a programming tech student at UTN, Argentina
-- :telescope: I like to learn about programming, especially cybersecurity and mobile apps
+- :telescope: I like to learn about programming, especially cybersecurity and backend developing
 - :zap: In my free time I like to listen to music, learn german and work out
 - :bulb: Last project: [Link](https://github.com/JoaquinFerman/VirtualWallet)
 
